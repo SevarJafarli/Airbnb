@@ -17,6 +17,7 @@
 		E71DDE952CB273B2006C6C54 /* ListingDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E71DDE942CB273B2006C6C54 /* ListingDetailView.swift */; };
 		E71DDE982CB27460006C6C54 /* ListingImageCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E71DDE972CB27460006C6C54 /* ListingImageCarouselView.swift */; };
 		E71DDE9A2CB2767F006C6C54 /* StarRateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E71DDE992CB2767F006C6C54 /* StarRateView.swift */; };
+		E71DDE9C2CB39DD3006C6C54 /* DestinationSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E71DDE9B2CB39DD3006C6C54 /* DestinationSearchView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		E71DDE942CB273B2006C6C54 /* ListingDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingDetailView.swift; sourceTree = "<group>"; };
 		E71DDE972CB27460006C6C54 /* ListingImageCarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingImageCarouselView.swift; sourceTree = "<group>"; };
 		E71DDE992CB2767F006C6C54 /* StarRateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarRateView.swift; sourceTree = "<group>"; };
+		E71DDE9B2CB39DD3006C6C54 /* DestinationSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationSearchView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 			children = (
 				E71DDE8E2CB2685C006C6C54 /* ExploreView.swift */,
 				E71DDE922CB26D41006C6C54 /* SearchAndFilterBar.swift */,
+				E71DDE9B2CB39DD3006C6C54 /* DestinationSearchView.swift */,
 			);
 			path = Explore;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 				E71DDE912CB26935006C6C54 /* ListingItemView.swift in Sources */,
 				E71DDE8F2CB2685C006C6C54 /* ExploreView.swift in Sources */,
 				E71DDE932CB26D41006C6C54 /* SearchAndFilterBar.swift in Sources */,
+				E71DDE9C2CB39DD3006C6C54 /* DestinationSearchView.swift in Sources */,
 				E71DDE952CB273B2006C6C54 /* ListingDetailView.swift in Sources */,
 				E71DDE9A2CB2767F006C6C54 /* StarRateView.swift in Sources */,
 				E71DDE752CB2676F006C6C54 /* AirbnbApp.swift in Sources */,
